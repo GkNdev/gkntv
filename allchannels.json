@@ -6,12 +6,6 @@
         "category": "ulusal"
     },
     {
-        "name": "ATV",
-        "img": "http://epg.one/img/2600.png",
-        "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8",
-        "category": "ulusal"
-    },
-    {
         "name": "SHOW TV",
         "img": "http://epg.one/img/2608.png",
         "url": "https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8",
@@ -32,7 +26,7 @@
     {
         "name": "STAR TV",
         "img": "http://epg.one/img/2593.png",
-        "url": "http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8",
+        "url": "https://dogus.daioncdn.net/startv/startv_1080p.m3u8",
         "category": "ulusal"
     },
     {
@@ -54,6 +48,126 @@
         "category": "ulusal"
     },
     {
+        "name": "TRT 2",
+        "img": "http://epg.one/img/3939.png",
+        "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "TEVE 2",
+        "img": "http://epg.one/img/2607.png",
+        "url": "https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "TRT KURDİ",
+        "img": "",
+        "url": "https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "A2",
+        "img": "http://epg.one/img/3961.png",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "360",
+        "img": "http://epg.one/img/3964.png",
+        "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "SHOWMAX TV",
+        "img": "http://epg.one/img/3943.png",
+        "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "TV8 INT",
+        "img": "http://epg.one/img/3950.png",
+        "url": "http://e8379.cakir20.xyz:80/halil.englad4/ayDnT.tNx-1/10311",
+        "category": "ulusal"
+    },
+    {
+        "name": "ATV",
+        "img": "",
+        "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "TYT TV",
+        "img": "",
+        "url": "https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "Ekol Tv",
+        "img": "",
+        "url": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "Ton Tv",
+        "img": "",
+        "url": "http://stream.tvcdn.net/yerel/ton-tv-canakkale.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "Fortuna Tv",
+        "img": "",
+        "url": "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "Woman Tv",
+        "img": "",
+        "url": "https://s01.webcaster.cloud/wmtv/live_1080p.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "ONS TV",
+        "img": "",
+        "url": "https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "Sağlık Tv",
+        "img": "",
+        "url": "https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "TÜRKİYE KLİNİKLERİ TV",
+        "img": "",
+        "url": "http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "Euro D",
+        "img": "",
+        "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "Eurostar",
+        "img": "",
+        "url": "https://canlitvulusal.xyz/live/eurostar/index.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "Show Turk",
+        "img": "",
+        "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "TV 100",
+        "img": "",
+        "url": "http://stream.tvcdn.net/ulusal/tv-100.m3u8",
+        "category": "haber"
+    },
+    {
         "name": "A HABER",
         "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",
         "url": "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=MF9nTSgaRG_wrDZRlprfmA&e=1743447639",
@@ -72,15 +186,111 @@
         "category": "haber"
     },
     {
-        "name": "TRT BELGESEL",
+        "name": "HABER TÜRK",
         "img": "",
-        "url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
+        "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8",
+        "category": "haber"
+    },
+    {
+        "name": "TGRT HABER",
+        "img": "https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f",
+        "url": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8",
+        "category": "haber"
+    },
+    {
+        "name": "CNN TÜRK",
+        "img": "https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500",
+        "url": "https://b.fulltvizle.com/cnn/index.m3u8",
+        "category": "haber"
+    },
+    {
+        "name": "CNN TÜRK Yedek",
+        "img": "",
+        "url": "http://trn03.tulix.tv/gt-cnn-turk/tracks-v1a1/mono.m3u8",
+        "category": "haber"
+    },
+    {
+        "name": "NTV",
+        "img": "https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264",
+        "url": "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?ce=3",
+        "category": "haber"
+    },
+    {
+        "name": "ÜLKE TV",
+        "img": "",
+        "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8",
+        "category": "haber"
+    },
+    {
+        "name": "TELE 1",
+        "img": "",
+        "url": "https://tele1.blutv.com/blutv_tele1_live/live.m3u8",
+        "category": "haber"
+    },
+    {
+        "name": "HALK TV",
+        "img": "",
+        "url": "https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8",
+        "category": "haber"
+    },
+    {
+        "name": "SÖZCÜ TV",
+        "img": "",
+        "url": "https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8",
+        "category": "haber"
+    },
+    {
+        "name": "KRT TV",
+        "img": "",
+        "url": "https://trn03.tulix.tv/gt-krttv/playlist.m3u8",
+        "category": "haber"
+    },
+    {
+        "name": "YOL Tv",
+        "img": "",
+        "url": "https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8",
+        "category": "haber"
+    },
+    {
+        "name": "24 TV",
+        "img": "",
+        "url": "http://stream.tvcdn.net/haber/24-tv.m3u8",
+        "category": "haber"
+    },
+    {
+        "name": "Bloomberg HT",
+        "img": "",
+        "url": "http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8",
+        "category": "haber"
+    },
+    {
+        "name": "Flash Haber",
+        "img": "",
+        "url": "https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8",
+        "category": "haber"
+    },
+    {
+        "name": "Tv Net",
+        "img": "",
+        "url": "https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8",
+        "category": "haber"
+    },
+    {
+        "name": "National Geoghrapic",
+        "img": "",
+        "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
         "category": "belgesel"
     },
     {
-        "name": "TLC",
+        "name": "National Geoghrapic Wild",
         "img": "",
-        "url": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
+        "url": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
+        "category": "belgesel"
+    },
+    {
+        "name": "YABAN TV",
+        "img": "",
+        "url": "http://stream.tvcdn.net/belgesel/yaban-tv.m3u8",
         "category": "belgesel"
     },
     {
@@ -90,12 +300,44 @@
         "category": "belgesel"
     },
     {
-        "name": "beIN SPORTS 1",
-        "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png",
-        "url": "https://zekonew.newkso.ru/zeko/premium62/mono.m3u8",
-        "category": "spor",
-        "referer": "https://xtreaweb.top",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+        "name": "TLC",
+        "img": "",
+        "url": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
+        "category": "belgesel"
+    },
+    {
+        "name": "TRT BELGESEL",
+        "img": "",
+        "url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
+        "category": "belgesel"
+    },
+    {
+        "name": "DISCOVERY CHANNEL",
+        "img": "",
+        "url": "https://tv.arectv29.sbs/live/discovery.m3u8",
+        "category": "belgesel",
+        "useragent": "okhttp/4.12.0"
+    },
+    {
+        "name": "DISCOVERY SCIENCE",
+        "img": "",
+        "url": "https://tv.arectv29.sbs/live/discs.m3u8",
+        "category": "belgesel",
+        "useragent": "okhttp/4.12.0"
+    },
+    {
+        "name": "LOVE NATURE",
+        "img": "",
+        "url": "https://tv.arectv29.sbs/live/lovenature.m3u8",
+        "category": "belgesel",
+        "useragent": "okhttp/4.12.0"
+    },
+    {
+        "name": "VIASAT HISTORY",
+        "img": "",
+        "url": "https://tv.arectv29.sbs/live/viasathistory.m3u8",
+        "category": "belgesel",
+        "useragent": "okhttp/4.12.0"
     },
     {
         "name": "A SPOR",
@@ -104,9 +346,62 @@
         "category": "spor"
     },
     {
-        "name": "TRT SPOR",
-        "img": "http://epg.one/img/6525.png",
-        "url": "https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=79z9tcyuwy3e&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2",
+        "name": "S SPORT",
+        "img": "",
+        "url": "https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
+        "category": "spor"
+    },
+    {
+        "name": "S SPORT 2",
+        "img": "",
+        "url": "https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
+        "category": "spor"
+    },
+    {
+        "name": "beIN SPORTS 1",
+        "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png",
+        "url": "https://r14.cf1-b17.workers.dev/static/bs1.m3u8",
+        "category": "spor",
+        "useragent": "okhttp/4.12.0"
+    },
+    {
+        "name": "beIN SPORTS 2",
+        "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png",
+        "url": "https://r14.cf1-b17.workers.dev/static/bs2.m3u8",
+        "category": "spor",
+        "useragent": "okhttp/4.12.0"
+    },
+    {
+        "name": "beIN SPORTS 3",
+        "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png",
+        "url": "https://r14.cf1-b17.workers.dev/static/bs3.m3u8",
+        "category": "spor",
+        "useragent": "okhttp/4.12.0"
+    },
+    {
+        "name": "beIN SPORTS 4",
+        "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png",
+        "url": "https://r14.cf1-b17.workers.dev/static/bs4.m3u8",
+        "category": "spor",
+        "useragent": "okhttp/4.12.0"
+    },
+    {
+        "name": "beIN SPORTS 5",
+        "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png",
+        "url": "https://r14.cf1-b17.workers.dev/static/bs5.m3u8",
+        "category": "spor",
+        "useragent": "okhttp/4.12.0"
+    },
+    {
+        "name": "beIN SPORTS MAX 1",
+        "img": "",
+        "url": "https://v.arectv29.sbs/static/bm1.m3u8",
+        "category": "spor"
+    },
+    {
+        "name": "beIN SPORTS MAX 2",
+        "img": "",
+        "url": "https://v.arectv29.sbs/static/bm2.m3u8",
         "category": "spor"
     },
     {
@@ -128,15 +423,118 @@
         "category": "çocuk"
     },
     {
+        "name": "MİNİKA GO",
+        "img": "",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8",
+        "category": "çocuk"
+    },
+    {
+        "name": "MİNİKA ÇOCUK",
+        "img": "",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8",
+        "category": "çocuk"
+    },
+    {
+        "name": "BABY TV HD",
+        "img": "",
+        "url": "https://saran-live.ercdn.net/babytv/index.m3u8",
+        "category": "çocuk"
+    },
+    {
+        "name": "DİSNEY JR",
+        "img": "",
+        "url": "https://saran-live.ercdn.net/disneyjunior/index.m3u8",
+        "category": "çocuk"
+    },
+    {
+        "name": "DA VINCI LEARNING",
+        "img": "",
+        "url": "https://tv.arectv29.sbs/live/davinci.m3u8",
+        "category": "çocuk",
+        "useragent": "okhttp/4.12.0"
+    },
+    {
         "name": "YEŞİLÇAM TV HD",
         "img": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png",
         "url": "http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82779",
-        "category": "724"
+        "category": "sinema"
+    },
+    {
+        "name": "YEŞİLÇAM TV 2 HD",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png",
+        "url": "http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82777",
+        "category": "sinema"
+    },
+    {
+        "name": "YEŞİLÇAM TV 3 HD",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png",
+        "url": "http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82778",
+        "category": "sinema"
     },
     {
         "name": "KEMAL SUNAL TV HD",
         "img": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png",
         "url": "http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82786",
+        "category": "sinema"
+    },
+    {
+        "name": "KEMAL SUNAL TV 2 HD",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png",
+        "url": "http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82787",
+        "category": "sinema"
+    },
+    {
+        "name": "KEMAL SUNAL TV 3 HD",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png",
+        "url": "http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93890",
+        "category": "sinema"
+    },
+    {
+        "name": "FX",
+        "img": "",
+        "url": "https://saran-live.ercdn.net/fx/index.m3u8",
+        "category": "sinema"
+    },
+    {
+        "name": "Hocwan Tv",
+        "img": "",
+        "url": "https://ip100.radyotelekomtv.com:3593/stream/play.m3u8",
+        "category": "dini"
+    },
+    {
+        "name": "Kudus Tv",
+        "img": "",
+        "url": "https://yayin30.haber100.com/live/kudustv/.m3u8",
+        "category": "dini"
+    },
+    {
+        "name": "Meltem TV",
+        "img": "",
+        "url": "http://stream.tvcdn.net/dini/meltem-tv.m3u8",
+        "category": "dini"
+    },
+    {
+        "name": "TolgaShow",
+        "img": "",
+        "url": "https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=wpIXwblLA8I",
         "category": "724"
+    },
+    {
+        "name": "Arkadaşım Hoşgeldin",
+        "img": "",
+        "url": "https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=FATDnY2ymoo",
+        "category": "724"
+    },
+    {
+        "name": "Komedi Dükkanı",
+        "img": "",
+        "url": "https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=aWfuX57lXis",
+        "category": "724"
+    },
+    {
+        "name": "ATV Yedek",
+        "img": "",
+        "url": "http://stream.tvcdn.net/ulusal/atv.m3u8",
+        "category": "ulusal"
     }
 ]
