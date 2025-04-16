@@ -1,5 +1,11 @@
 [
     {
+        "name": "Halk tv",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png",
+        "url": "https://www.youtube.com/embed/8Klj8fJWwGg",
+        "category": "ulusal"
+    },
+    {
         "name": "TRT 1",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png",
         "url": "https://tv-trt1.medya.trt.com.tr/master_1080.m3u8",
