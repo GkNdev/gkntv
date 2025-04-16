@@ -1,31 +1,31 @@
 [
     {
         "name": "TRT 1",
-        "img": "http://epg.one/img/2598.png",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png",
         "url": "https://tv-trt1.medya.trt.com.tr/master_1080.m3u8",
         "category": "ulusal"
     },
     {
         "name": "SHOW TV",
-        "img": "http://epg.one/img/2608.png",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDGQVsZPC5EI0RvTucCf3RnWJbmI80Tz07GQ&s",
         "url": "https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8",
         "category": "ulusal"
     },
     {
         "name": "NOW TV",
-        "img": "http://epg.one/img/9801.png",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIDS5_Xnm1snBf4SyRb4OpJ5HlOrMLFbb9g&s",
         "url": "https://b.fulltvizle.com/fox/index.m3u8",
         "category": "ulusal"
     },
     {
         "name": "KANAL D",
-        "img": "http://epg.one/img/2605.png",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/4/4e/20240406161353%21Kanal_D.png",
         "url": "https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8",
         "category": "ulusal"
     },
     {
         "name": "STAR TV",
-        "img": "http://epg.one/img/2593.png",
+        "img": "https://seeklogo.com/images/S/star-tv-logo-F9543018FF-seeklogo.com.png",
         "url": "https://dogus.daioncdn.net/startv/startv_1080p.m3u8",
         "category": "ulusal"
     },
@@ -37,133 +37,127 @@
     },
     {
         "name": "TV8",
-        "img": "http://epg.one/img/2596.png",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSClDiUBozzomsa9Z12kTQoJ1wFvI55AeHqA&s",
         "url": "https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8",
         "category": "ulusal"
     },
     {
         "name": "TV8,5",
-        "img": "http://epg.one/img/2614.png",
+        "img": "https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",
         "url": "https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8",
         "category": "ulusal"
     },
     {
         "name": "TRT 2",
-        "img": "http://epg.one/img/3939.png",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/TRT_2_logo.svg",
         "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
         "category": "ulusal"
     },
     {
         "name": "TEVE 2",
-        "img": "http://epg.one/img/2607.png",
+        "img": "https://static.ssportplus.com/wp-content/uploads/2024/03/teve2-1-768x768.png",
         "url": "https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8",
         "category": "ulusal"
     },
     {
         "name": "TRT KURDİ",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/2560px-TRT_Kurd%C3%AE_logo.svg.png",
         "url": "https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8",
         "category": "ulusal"
     },
     {
         "name": "A2",
-        "img": "http://epg.one/img/3961.png",
+        "img": "https://files.sikayetvar.com/lg/cmp/13/136968.png?1611151163",
         "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8",
         "category": "ulusal"
     },
     {
         "name": "360",
-        "img": "http://epg.one/img/3964.png",
+        "img": "https://www.turkmedya.com.tr/assets/img/logo/logo_360tv.png",
         "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
         "category": "ulusal"
     },
     {
         "name": "SHOWMAX TV",
-        "img": "http://epg.one/img/3943.png",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/1200px-Show_MAX_logo.svg.png",
         "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8",
         "category": "ulusal"
     },
     {
         "name": "TV8 INT",
-        "img": "http://epg.one/img/3950.png",
+        "img": "https://tossfed.gov.tr/storage/2018/05/6D1B729E-3606-43E6-A6C3-5DB021BA1EE5.jpeg",
         "url": "http://e8379.cakir20.xyz:80/halil.englad4/ayDnT.tNx-1/10311",
         "category": "ulusal"
     },
     {
         "name": "ATV",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/640px-Atv_logo_2010.svg.png",
         "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8",
         "category": "ulusal"
     },
     {
         "name": "TYT TV",
-        "img": "",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWifYV4JD9ixpvPhbSPXWumSpikHsHjPibg&s",
         "url": "https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8",
         "category": "ulusal"
     },
     {
         "name": "Ekol Tv",
-        "img": "",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa1ATwLkbjjSh4Hexcwf4iLYgowKYAKAj_bw&s",
         "url": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8",
         "category": "ulusal"
     },
     {
         "name": "Ton Tv",
-        "img": "",
+        "img": "https://static.daktilo.com/sites/1705/uploads/2025/02/09/desktop.png",
         "url": "http://stream.tvcdn.net/yerel/ton-tv-canakkale.m3u8",
         "category": "ulusal"
     },
     {
         "name": "Fortuna Tv",
-        "img": "",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyhAyTeHZ6Rc1wZ7CfAb2tztOPJoj2zVoxg&s",
         "url": "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8",
         "category": "ulusal"
     },
     {
         "name": "Woman Tv",
-        "img": "",
+        "img": "https://www.guncelkadin.com.tr/wp-content/uploads/2022/02/www.png",
         "url": "https://s01.webcaster.cloud/wmtv/live_1080p.m3u8",
         "category": "ulusal"
     },
     {
         "name": "ONS TV",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/15/ONS-logo.png",
         "url": "https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8",
         "category": "ulusal"
     },
     {
         "name": "Sağlık Tv",
-        "img": "",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBZ6oc3YWj89IGGkIuQ0gMjM99zk-9weHSwg&s",
         "url": "https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8",
         "category": "ulusal"
     },
     {
-        "name": "TÜRKİYE KLİNİKLERİ TV",
-        "img": "",
-        "url": "http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8",
-        "category": "ulusal"
-    },
-    {
         "name": "Euro D",
-        "img": "",
+        "img": "https://static.wikia.nocookie.net/logopedia/images/1/1d/Euro_D.svg/revision/latest?cb=20220108144208",
         "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
         "category": "ulusal"
     },
     {
         "name": "Eurostar",
-        "img": "",
+        "img": "https://www.eurostartv.com.tr/Content/img/eurostar-logo.png",
         "url": "https://canlitvulusal.xyz/live/eurostar/index.m3u8",
         "category": "ulusal"
     },
     {
         "name": "Show Turk",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/1200px-Show_Turk_logo.svg.png",
         "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8",
         "category": "ulusal"
     },
     {
         "name": "TV 100",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png",
         "url": "http://stream.tvcdn.net/ulusal/tv-100.m3u8",
         "category": "haber"
     },
@@ -187,7 +181,7 @@
     },
     {
         "name": "HABER TÜRK",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/78/Haberturk_logo.png",
         "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8",
         "category": "haber"
     },
@@ -199,13 +193,13 @@
     },
     {
         "name": "CNN TÜRK",
-        "img": "https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500",
+        "img": "https://temizerhukuk.com/wp-content/uploads/1200px-CNN_Turk_201x_logo.svg_-768x618.png",
         "url": "https://b.fulltvizle.com/cnn/index.m3u8",
         "category": "haber"
     },
     {
         "name": "CNN TÜRK Yedek",
-        "img": "",
+        "img": "https://temizerhukuk.com/wp-content/uploads/1200px-CNN_Turk_201x_logo.svg_-768x618.png",
         "url": "http://trn03.tulix.tv/gt-cnn-turk/tracks-v1a1/mono.m3u8",
         "category": "haber"
     },
@@ -217,143 +211,143 @@
     },
     {
         "name": "ÜLKE TV",
-        "img": "",
+        "img": "https://images.seeklogo.com/logo-png/26/2/ulke-tv-logo-png_seeklogo-260903.png",
         "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8",
         "category": "haber"
     },
     {
         "name": "TELE 1",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png",
         "url": "https://tele1.blutv.com/blutv_tele1_live/live.m3u8",
         "category": "haber"
     },
     {
         "name": "HALK TV",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png",
         "url": "https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8",
         "category": "haber"
     },
     {
         "name": "SÖZCÜ TV",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png",
         "url": "https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8",
         "category": "haber"
     },
     {
         "name": "KRT TV",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c4/KRT_Logo_2023.webp",
         "url": "https://trn03.tulix.tv/gt-krttv/playlist.m3u8",
         "category": "haber"
     },
     {
         "name": "YOL Tv",
-        "img": "",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gM5HlRnRXUU4S-HW-dPwXLczvWBMdXohZQ&s",
         "url": "https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8",
         "category": "haber"
     },
     {
         "name": "24 TV",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png",
         "url": "http://stream.tvcdn.net/haber/24-tv.m3u8",
         "category": "haber"
     },
     {
         "name": "Bloomberg HT",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bloomberg_HT_logo.svg/2560px-Bloomberg_HT_logo.svg.png",
         "url": "http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8",
         "category": "haber"
     },
     {
         "name": "Flash Haber",
-        "img": "",
+        "img": "https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/flash-haber-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3",
         "url": "https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8",
         "category": "haber"
     },
     {
         "name": "Tv Net",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/66/Tvnet.png",
         "url": "https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8",
         "category": "haber"
     },
     {
         "name": "National Geoghrapic",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",
         "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
         "category": "belgesel"
     },
     {
         "name": "National Geoghrapic Wild",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",
         "url": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
         "category": "belgesel"
     },
     {
         "name": "YABAN TV",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/3/38/20150205183811%21Yabantv_logo.png",
         "url": "http://stream.tvcdn.net/belgesel/yaban-tv.m3u8",
         "category": "belgesel"
     },
     {
         "name": "DMAX",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png",
         "url": "https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8",
         "category": "belgesel"
     },
     {
         "name": "TLC",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png",
         "url": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
         "category": "belgesel"
     },
     {
         "name": "TRT BELGESEL",
-        "img": "",
+        "img": "https://tvepg.eu/img/turkey/logo/trt_belgesel.png",
         "url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
         "category": "belgesel"
     },
     {
         "name": "DISCOVERY CHANNEL",
-        "img": "",
+        "img": "https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png",
         "url": "https://tv.arectv29.sbs/live/discovery.m3u8",
         "category": "belgesel",
         "useragent": "okhttp/4.12.0"
     },
     {
         "name": "DISCOVERY SCIENCE",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png",
         "url": "https://tv.arectv29.sbs/live/discs.m3u8",
         "category": "belgesel",
         "useragent": "okhttp/4.12.0"
     },
     {
         "name": "LOVE NATURE",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/1/1d/Love_Nature_TV.png",
         "url": "https://tv.arectv29.sbs/live/lovenature.m3u8",
         "category": "belgesel",
         "useragent": "okhttp/4.12.0"
     },
     {
         "name": "VIASAT HISTORY",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Viasat_History-logo.svg",
         "url": "https://tv.arectv29.sbs/live/viasathistory.m3u8",
         "category": "belgesel",
         "useragent": "okhttp/4.12.0"
     },
     {
         "name": "A SPOR",
-        "img": "",
+        "img": "https://i.tmgrup.com.tr/aSpor/i/logo.png",
         "url": "https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1743447774&st=1XY9fO4Cq2HZ825yvaS1Og&sid=7aagqo5bwcb2&app=45f847c4-04e8-419a-a561-2ebf87084765&ce=3",
         "category": "spor"
     },
     {
         "name": "S SPORT",
-        "img": "",
+        "img": "https://www.turksatkablo.com.tr/images/icerik/ssportplus.png",
         "url": "https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
         "category": "spor"
     },
     {
         "name": "S SPORT 2",
-        "img": "",
+        "img": "https://www.turksatkablo.com.tr/images/icerik/ssportplus.png",
         "url": "https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
         "category": "spor"
     },
@@ -394,61 +388,61 @@
     },
     {
         "name": "beIN SPORTS MAX 1",
-        "img": "",
+        "img": "https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-max-1-logo.png",
         "url": "https://v.arectv29.sbs/static/bm1.m3u8",
         "category": "spor"
     },
     {
         "name": "beIN SPORTS MAX 2",
-        "img": "",
+        "img": "https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-max-1-logo.png",
         "url": "https://v.arectv29.sbs/static/bm2.m3u8",
         "category": "spor"
     },
     {
         "name": "TRT ÇOCUK",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TRT_%C3%A7ocuk_logo.png/640px-TRT_%C3%A7ocuk_logo.png",
         "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
         "category": "çocuk"
     },
     {
         "name": "TRT DİYANET ÇOCUK",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TRT_Diyanet_%C3%87ocuk_logo.svg/2560px-TRT_Diyanet_%C3%87ocuk_logo.svg.png",
         "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
         "category": "çocuk"
     },
     {
         "name": "CARTOON NETWORK",
-        "img": "",
+        "img": "https://cdn.freebiesupply.com/logos/large/2x/cartoon-network-1-logo-png-transparent.png",
         "url": "https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8",
         "category": "çocuk"
     },
     {
         "name": "MİNİKA GO",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/MinikaGO_logo.png",
         "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8",
         "category": "çocuk"
     },
     {
         "name": "MİNİKA ÇOCUK",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png",
         "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8",
         "category": "çocuk"
     },
     {
         "name": "BABY TV HD",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/4/45/BabyTV.png",
         "url": "https://saran-live.ercdn.net/babytv/index.m3u8",
         "category": "çocuk"
     },
     {
         "name": "DİSNEY JR",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/35/Disney_Junior_2019_logo.png",
         "url": "https://saran-live.ercdn.net/disneyjunior/index.m3u8",
         "category": "çocuk"
     },
     {
         "name": "DA VINCI LEARNING",
-        "img": "",
+        "img": "https://www.kindpng.com/picc/m/740-7403022_da-vinci-learning-logo-png-download-da-vinci.png",
         "url": "https://tv.arectv29.sbs/live/davinci.m3u8",
         "category": "çocuk",
         "useragent": "okhttp/4.12.0"
@@ -491,7 +485,7 @@
     },
     {
         "name": "FX",
-        "img": "",
+        "img": "https://images.seeklogo.com/logo-png/30/2/fx-tv-channel-logo-png_seeklogo-307536.png",
         "url": "https://saran-live.ercdn.net/fx/index.m3u8",
         "category": "sinema"
     },
@@ -533,7 +527,7 @@
     },
     {
         "name": "ATV Yedek",
-        "img": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/640px-Atv_logo_2010.svg.png",
         "url": "http://stream.tvcdn.net/ulusal/atv.m3u8",
         "category": "ulusal"
     }
