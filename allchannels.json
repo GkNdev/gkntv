@@ -198,12 +198,6 @@
         "category": "haber"
     },
     {
-        "name": "CNN TÜRK Yedek",
-        "img": "https://temizerhukuk.com/wp-content/uploads/1200px-CNN_Turk_201x_logo.svg_-768x618.png",
-        "url": "http://trn03.tulix.tv/gt-cnn-turk/tracks-v1a1/mono.m3u8",
-        "category": "haber"
-    },
-    {
         "name": "NTV",
         "img": "https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264",
         "url": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
@@ -224,7 +218,7 @@
     {
         "name": "SÖZCÜ TV",
         "img": "https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png",
-        "url": "https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8",
+        "url": "https://trn03.tulix.tv/gt-sozcu-tv/index.m3u8",
         "category": "haber"
     },
     {
@@ -407,7 +401,7 @@
     {
         "name": "CARTOON NETWORK",
         "img": "https://cdn.freebiesupply.com/logos/large/2x/cartoon-network-1-logo-png-transparent.png",
-        "url": "https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8",
+        "url": "https://yayin2.canlitv.fun/live/cartoon-network.stream/playlist.m3u8?hash=21564605789f41a427aca24dce332160",
         "category": "çocuk"
     },
     {
@@ -455,21 +449,15 @@
     },
     {
         "name": "Kudus Tv",
-        "img": "",
+        "img": "https://kudustv.com.tr/images/logo/logo.png?",
         "url": "https://yayin30.haber100.com/live/kudustv/.m3u8",
         "category": "dini"
     },
     {
         "name": "Meltem TV",
-        "img": "",
+        "img": "https://meltemtv.com.tr/uploads/logo.png",
         "url": "http://stream.tvcdn.net/dini/meltem-tv.m3u8",
         "category": "dini"
-    },
-    {
-        "name": "ATV Yedek",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/640px-Atv_logo_2010.svg.png",
-        "url": "http://stream.tvcdn.net/ulusal/atv.m3u8",
-        "category": "ulusal"
     },
     {
         "name": "Kurtlar Vadisi",
@@ -484,7 +472,7 @@
         "category": "724"
     },
     {
-        "name": "YEŞİLÇAM TV",
+        "name": "YEŞİLÇAM TV 1",
         "img": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Ye%C5%9Fil%C3%A7am_TV_logosu.png",
         "url": "yt=UgKxh04Iv9o",
         "category": "724"
@@ -520,15 +508,171 @@
         "category": "haber"
     },
     {
-        "name": "SÖZCÜ TV",
-        "img": "https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png",
-        "url": "https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=fmOjh08ezgs",
-        "category": "haber"
-    },
-    {
         "name": "AKİT TV",
         "img": "https://upload.wikimedia.org/wikipedia/tr/thumb/c/cf/Akit_TV.png/640px-Akit_TV.png",
         "url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
         "category": "haber"
+    },
+    {
+        "name": "ÇOCUKLAR DUYMASIN",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/%C3%87ocuklar_Duymas%C4%B1n_logo_%282017-2019%29.png",
+        "url": "yt=BjEBboWV_G0",
+        "category": "724"
+    },
+    {
+        "name": "BİZİMKİLER",
+        "img": "https://m.media-amazon.com/images/M/MV5BZWQ5NThkZTItNDZlMi00MGM1LTg1NzYtZjlmNzA0MzQ2ZmU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "yt=su2Z2_AT4ng",
+        "category": "724"
+    },
+    {
+        "name": "BİZİMKİLER",
+        "img": "https://m.media-amazon.com/images/M/MV5BZWQ5NThkZTItNDZlMi00MGM1LTg1NzYtZjlmNzA0MzQ2ZmU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "yt=WToqFd-2q-w",
+        "category": "724"
+    },
+    {
+        "name": "YEŞİLÇAM TV 2",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Ye%C5%9Fil%C3%A7am_TV_logosu.png",
+        "url": "yt=WToqFd-2q-w",
+        "category": "724"
+    },
+    {
+        "name": "RÜZGARLI TEPE",
+        "img": "https://www.tgrthaber.com/mavikadin/wp-content/uploads/ruzgarlitepe-683x1024.webp",
+        "url": "yt=WJ-AUyXf3Po",
+        "category": "724"
+    },
+    {
+        "name": "MEDCEZİR TEPE",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/2/2a/Medcezir.jpg",
+        "url": "yt=MLUGblGpm8A",
+        "category": "724"
+    },
+    {
+        "name": "AVRUPA YAKASI",
+        "img": "https://tr.web.img3.acsta.net/medias/nmedia/18/84/02/10/19722178.jpg",
+        "url": "yt=jDBzAsFClXI",
+        "category": "724"
+    },
+    {
+        "name": "BEHZAT Ç",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/6/6f/Behzat_%C3%87._Poster.jpg",
+        "url": "yt=V6_46VDV1dY",
+        "category": "724"
+    },
+    {
+        "name": "YAPRAK DÖKÜMÜ",
+        "img": "https://yt3.googleusercontent.com/PRg3IFChwfY4shcuHvOMGhE6Pj37rsonDFgj6erj7_Cks-DP97ieJ9cnYGuRgAKJIbCBMQ7B=s900-c-k-c0x00ffffff-no-rj",
+        "url": "yt=crwxJBQKWj4",
+        "category": "724"
+    },
+    {
+        "name": "YAPRAK DÖKÜMÜ",
+        "img": "https://yt3.googleusercontent.com/PRg3IFChwfY4shcuHvOMGhE6Pj37rsonDFgj6erj7_Cks-DP97ieJ9cnYGuRgAKJIbCBMQ7B=s900-c-k-c0x00ffffff-no-rj",
+        "url": "yt=crwxJBQKWj4",
+        "category": "724"
+    },
+    {
+        "name": "SİHİRLİ ANNEM",
+        "img": "https://i.ytimg.com/vi/KCejwr4z7NQ/hq720.jpg?v=67bc1621&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCp0gMe4EwxJuySjV8TmqZ3AS5a8w",
+        "url": "yt=KCejwr4z7NQ",
+        "category": "724"
+    },
+    {
+        "name": "LEYLA İLE MECNUN",
+        "img": "https://static.wikia.nocookie.net/leylailemecnun/images/1/10/17942418998159769793618.jpg/revision/latest?cb=20110730074339&path-prefix=tr",
+        "url": "yt=3nlND4audLg",
+        "category": "724"
+    },
+    {
+        "name": "ZENGİN KIZ FAKİR OĞLAN",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/9/9b/ZenginKizFakirOglan-afis.jpg",
+        "url": "yt=3kTcvGWaO3Q",
+        "category": "724"
+    },
+    {
+        "name": "CENNET MAHALLESİ",
+        "img": "https://mo.ciner.com.tr/showtv/iu/1258x630/cennet-mahallesi.jpg",
+        "url": "yt=lf1NxAexRAE",
+        "category": "724"
+    },
+    {
+        "name": "KİRALIK AŞK",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/5/51/Kiralik_ask.jpg",
+        "url": "yt=n3_DG0Sv0kw",
+        "category": "724"
+    },
+    {
+        "name": "EMRET KOMUTANIM",
+        "img": "https://emretkomutanim.com/wp-content/uploads/2022/03/Kisa-Bilgi-Emret-Komutanimm-445.jpg",
+        "url": "yt=toD9B3krEgo",
+        "category": "724"
+    },
+    {
+        "name": "EMRET KOMUTANIM",
+        "img": "https://emretkomutanim.com/wp-content/uploads/2022/03/Kisa-Bilgi-Emret-Komutanimm-445.jpg",
+        "url": "yt=toD9B3krEgo",
+        "category": "724"
+    },
+    {
+        "name": "GELİN",
+        "img": "https://i.ytimg.com/vi/kKGVOM2EV1M/hq720.jpg",
+        "url": "yt=kKGVOM2EV1M",
+        "category": "724"
+    },
+    {
+        "name": "YALAN DÜNYA",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDg4NmM0ZGItYzc0My00YThlLThiNDktYTJkY2JiM2RkMDdlXkEyXkFqcGc@._V1_.jpg",
+        "url": "yt=swCdxaGHkM8",
+        "category": "724"
+    },
+    {
+        "name": "YEŞİLÇAM TV 3",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Ye%C5%9Fil%C3%A7am_TV_logosu.png",
+        "url": "yt=8GyfV8qhpIs",
+        "category": "724"
+    },
+    {
+        "name": "HZ YUSUF",
+        "img": "https://i.ytimg.com/vi/T0nRAtMBoLo/hq720.jpg",
+        "url": "yt=T0nRAtMBoLo",
+        "category": "724"
+    },
+    {
+        "name": "KURULUŞ OSMAN",
+        "img": "https://iaatv.tmgrup.com.tr/bd8785/400/225/0/0/2048/1151?u=https://iatv.tmgrup.com.tr/2025/03/25/kurulus-osman-1742896044743.jpg",
+        "url": "yt=PobdnBU-QQE",
+        "category": "724"
+    },
+    {
+        "name": "MÜGE ANLI İLE TATLI SERT ARŞİV",
+        "img": "https://iaatv.tmgrup.com.tr/4db03f/500/268/0/0/500/268?u=https://iatv.tmgrup.com.tr/2024/06/28/500x268/1719578421495.jpg",
+        "url": "yt=pfBAzARGqLM",
+        "category": "724"
+    },
+    {
+        "name": "MÜGE ANLI İLE TATLI SERT ARŞİV",
+        "img": "https://iaatv.tmgrup.com.tr/4db03f/500/268/0/0/500/268?u=https://iatv.tmgrup.com.tr/2024/06/28/500x268/1719578421495.jpg",
+        "url": "yt=pfBAzARGqLM",
+        "category": "724"
+    },
+    {
+        "name": "ÇOK GÜZEL HAREKETLER 2",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/2/26/%C3%87ok_G%C3%BCzel_Hareketler2Afi%C5%9F.jpg",
+        "url": "yt=iSs2JX68DZw",
+        "category": "724"
+    },
+    {
+        "name": "ADINI FERİHA KOYDUM",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/b/bf/Ad%C4%B1n%C4%B1_Feriha_Koydum_g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.jpg",
+        "url": "yt=PikNiUKUGM4",
+        "category": "724"
+    },
+    {
+        "name": "EŞKİYA DÜNYAYA HÜKÜMDAR OLMAZ",
+        "img": "https://i.ytimg.com/vi/F0yeYa-SSDc/maxresdefault.jpg",
+        "url": "yt=F0yeYa-SSDc",
+        "category": "724"
     }
 ]
