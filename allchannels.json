@@ -1,11 +1,5 @@
 [
     {
-        "name": "Halk tv",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png",
-        "url": "yt=8Klj8fJWwGg",
-        "category": "ulusal"
-    },
-    {
         "name": "TRT 1",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png",
         "url": "https://tv-trt1.medya.trt.com.tr/master_1080.m3u8",
@@ -212,25 +206,19 @@
     {
         "name": "NTV",
         "img": "https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264",
-        "url": "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?ce=3",
+        "url": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
         "category": "haber"
     },
     {
         "name": "ÜLKE TV",
-        "img": "https://images.seeklogo.com/logo-png/26/2/ulke-tv-logo-png_seeklogo-260903.png",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/1/11/%C3%9Clke_TV_Logosu.png",
         "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8",
         "category": "haber"
     },
     {
         "name": "TELE 1",
         "img": "https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png",
-        "url": "https://tele1.blutv.com/blutv_tele1_live/live.m3u8",
-        "category": "haber"
-    },
-    {
-        "name": "HALK TV",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png",
-        "url": "https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8",
+        "url": "https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8",
         "category": "haber"
     },
     {
@@ -454,42 +442,6 @@
         "useragent": "okhttp/4.12.0"
     },
     {
-        "name": "YEŞİLÇAM TV HD",
-        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png",
-        "url": "http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82779",
-        "category": "sinema"
-    },
-    {
-        "name": "YEŞİLÇAM TV 2 HD",
-        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png",
-        "url": "http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82777",
-        "category": "sinema"
-    },
-    {
-        "name": "YEŞİLÇAM TV 3 HD",
-        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png",
-        "url": "http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82778",
-        "category": "sinema"
-    },
-    {
-        "name": "KEMAL SUNAL TV HD",
-        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png",
-        "url": "http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82786",
-        "category": "sinema"
-    },
-    {
-        "name": "KEMAL SUNAL TV 2 HD",
-        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png",
-        "url": "http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82787",
-        "category": "sinema"
-    },
-    {
-        "name": "KEMAL SUNAL TV 3 HD",
-        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png",
-        "url": "http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93890",
-        "category": "sinema"
-    },
-    {
         "name": "FX",
         "img": "https://images.seeklogo.com/logo-png/30/2/fx-tv-channel-logo-png_seeklogo-307536.png",
         "url": "https://saran-live.ercdn.net/fx/index.m3u8",
@@ -514,27 +466,69 @@
         "category": "dini"
     },
     {
-        "name": "TolgaShow",
-        "img": "",
-        "url": "https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=wpIXwblLA8I",
-        "category": "724"
-    },
-    {
-        "name": "Arkadaşım Hoşgeldin",
-        "img": "",
-        "url": "https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=FATDnY2ymoo",
-        "category": "724"
-    },
-    {
-        "name": "Komedi Dükkanı",
-        "img": "",
-        "url": "https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=aWfuX57lXis",
-        "category": "724"
-    },
-    {
         "name": "ATV Yedek",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/640px-Atv_logo_2010.svg.png",
         "url": "http://stream.tvcdn.net/ulusal/atv.m3u8",
         "category": "ulusal"
+    },
+    {
+        "name": "Kurtlar Vadisi",
+        "img": "https://pbs.twimg.com/profile_images/1203665790660157440/ZTZr7uAt_400x400.jpg",
+        "url": "yt=BhUr9G4e2s4",
+        "category": "724"
+    },
+    {
+        "name": "Kemal Sunal TV",
+        "img": "https://yt3.googleusercontent.com/ytc/AIdro_kKB21USxEgVZCcJsgoXGh1qx1DQgSgfn6hz3r-1HDv9dI=s160-c-k-c0x00ffffff-no-rj",
+        "url": "yt=hfx8H7YrmTw",
+        "category": "724"
+    },
+    {
+        "name": "YEŞİLÇAM TV",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Ye%C5%9Fil%C3%A7am_TV_logosu.png",
+        "url": "yt=UgKxh04Iv9o",
+        "category": "724"
+    },
+    {
+        "name": "KEMAL SUNAL TV 1",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Ye%C5%9Fil%C3%A7am_TV_logosu.png",
+        "url": "yt=hfx8H7YrmTw",
+        "category": "724"
+    },
+    {
+        "name": "ŞABAN TV",
+        "img": "https://resim.tavsiyeforumu.com/images/icon.png",
+        "url": "yt=FGL1GwoRRIw",
+        "category": "724"
+    },
+    {
+        "name": "KEMAL SUNAL TV 2",
+        "img": "https://resim.tavsiyeforumu.com/images/icon.png",
+        "url": "yt=FGL1GwoRRIw",
+        "category": "724"
+    },
+    {
+        "name": "METİN-ZEKİ TV",
+        "img": "https://resim.tavsiyeforumu.com/images/icon.png",
+        "url": "yt=9ZMh3wSverE",
+        "category": "724"
+    },
+    {
+        "name": "HALK TV",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png",
+        "url": "https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8",
+        "category": "haber"
+    },
+    {
+        "name": "SÖZCÜ TV",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png",
+        "url": "https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=fmOjh08ezgs",
+        "category": "haber"
+    },
+    {
+        "name": "AKİT TV",
+        "img": "https://upload.wikimedia.org/wikipedia/tr/thumb/c/cf/Akit_TV.png/640px-Akit_TV.png",
+        "url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
+        "category": "haber"
     }
 ]
