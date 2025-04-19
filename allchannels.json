@@ -212,7 +212,7 @@
     {
         "name": "TELE 1",
         "img": "https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png",
-        "url": "https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8",
+        "url": "yt=fNqmmqNNGp8",
         "category": "haber"
     },
     {
@@ -224,7 +224,7 @@
     {
         "name": "KRT TV",
         "img": "https://upload.wikimedia.org/wikipedia/commons/c/c4/KRT_Logo_2023.webp",
-        "url": "yt=v5srSbD2WBk",
+        "url": "https://trn03.tulix.tv/gt-krt-tv/index.m3u8",
         "category": "haber"
     },
     {
@@ -308,7 +308,7 @@
     {
         "name": "A SPOR",
         "img": "https://i.tmgrup.com.tr/aSpor/i/logo.png",
-        "url": "https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1743447774&st=1XY9fO4Cq2HZ825yvaS1Og&sid=7aagqo5bwcb2&app=45f847c4-04e8-419a-a561-2ebf87084765&ce=3",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8",
         "category": "spor"
     },
     {
@@ -426,12 +426,6 @@
         "category": "sinema"
     },
     {
-        "name": "Hocwan Tv",
-        "img": "",
-        "url": "https://ip100.radyotelekomtv.com:3593/stream/play.m3u8",
-        "category": "dini"
-    },
-    {
         "name": "Kudus Tv",
         "img": "https://kudustv.com.tr/images/logo/logo.png?",
         "url": "https://yayin30.haber100.com/live/kudustv/.m3u8",
@@ -440,7 +434,7 @@
     {
         "name": "Meltem TV",
         "img": "https://meltemtv.com.tr/uploads/logo.png",
-        "url": "http://stream.tvcdn.net/dini/meltem-tv.m3u8",
+        "url": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8",
         "category": "dini"
     },
     {
@@ -648,12 +642,6 @@
         "category": "724"
     },
     {
-        "name": "A PARA",
-        "img": "https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA",
-        "url": "yt=bLk5UbXn1OI",
-        "category": "ulusal"
-    },
-    {
         "name": "BEYAZ TV",
         "img": "https://static.wikia.nocookie.net/logopedia/images/9/9e/Beyaz-tv-tr.png/revision/latest?cb=20220108221208",
         "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8",
@@ -664,5 +652,57 @@
         "img": "https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",
         "url": "https://tv.arectv29.sbs/live/bbc.m3u8",
         "category": "belgesel"
+    },
+    {
+        "name": "MAKKAH TV",
+        "img": "https://rp-cms.imgix.net/wp-content/uploads/haidan-IAwnp88Fz8Y-unsplash-scaled-e1729588123400.jpg",
+        "url": "yt=0EGfLYB6eyI",
+        "category": "dini"
+    },
+
+    {
+        "name": "MADİNA TV",
+        "img": "https://is1-ssl.mzstatic.com/image/thumb/Purple60/v4/c5/ee/17/c5ee1744-37da-c5b0-1d2f-e9bb32fcd7ad/source/512x512bb.jpg",
+        "url": "yt=yWw0DWJQVtU",
+        "category": "dini"
+    },
+    {
+        "name": "FB TV",
+        "img": "https://is1-ssl.mzstatic.com/image/thumb/Purple60/v4/c5/ee/17/c5ee1744-37da-c5b0-1d2f-e9bb32fcd7ad/source/512x512bb.jpg",
+        "url": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8",
+        "category": "spor"
+    },
+
+    {
+        "name": "GS TV",
+        "img": "https://is1-ssl.mzstatic.com/image/thumb/Purple60/v4/c5/ee/17/c5ee1744-37da-c5b0-1d2f-e9bb32fcd7ad/source/512x512bb.jpg",
+        "url": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8",
+        "category": "spor"
+    },
+    {
+        "name": "TRT AVAZ",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/2560px-TRT_Avaz_logo.svg.png",
+        "url": "https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "TV 4",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/02/TV4_logo.png",
+        "url": "https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "TV 4",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/02/TV4_logo.png",
+        "url": "https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "BEİN SPORTS 1 FEED[MAÇ SAATİ]",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/02/TV4_logo.png",
+        "url": "https://vavoo.to/play/2113462398/index.m3u8",
+        "useragent": "VAVOO/1.0",
+        "referer": "https://vavoo.to/",
+        "category": "spor"
     }
 ]
