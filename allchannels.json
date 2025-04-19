@@ -331,29 +331,37 @@
         "useragent": "okhttp/4.12.0"
     },
     {
-        "name": "beIN SPORTS 2",
+        "name": "BEİN SPORTS 1 FEED[MAÇ SAATİ]",
         "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png",
+        "url": "https://vavoo.to/play/1536730627/index.m3u8",
+        "useragent": "VAVOO/1.0",
+        "referer": "https://vavoo.to/",
+        "category": "spor"
+    },
+    {
+        "name": "beIN SPORTS 2",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",
         "url": "https://r14.cf1-b17.workers.dev/static/bs2.m3u8",
         "category": "spor",
         "useragent": "okhttp/4.12.0"
     },
     {
         "name": "beIN SPORTS 3",
-        "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png",
         "url": "https://r14.cf1-b17.workers.dev/static/bs3.m3u8",
         "category": "spor",
         "useragent": "okhttp/4.12.0"
     },
     {
         "name": "beIN SPORTS 4",
-        "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",
         "url": "https://r14.cf1-b17.workers.dev/static/bs4.m3u8",
         "category": "spor",
         "useragent": "okhttp/4.12.0"
     },
     {
         "name": "beIN SPORTS 5",
-        "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png",
+        "img": "https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-5-buyuk.png?rkt=DfS6Tgv6Hjr93k3",
         "url": "https://r14.cf1-b17.workers.dev/static/bs5.m3u8",
         "category": "spor",
         "useragent": "okhttp/4.12.0"
@@ -659,7 +667,6 @@
         "url": "yt=0EGfLYB6eyI",
         "category": "dini"
     },
-
     {
         "name": "MADİNA TV",
         "img": "https://is1-ssl.mzstatic.com/image/thumb/Purple60/v4/c5/ee/17/c5ee1744-37da-c5b0-1d2f-e9bb32fcd7ad/source/512x512bb.jpg",
@@ -672,7 +679,6 @@
         "url": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8",
         "category": "spor"
     },
-
     {
         "name": "GS TV",
         "img": "https://is1-ssl.mzstatic.com/image/thumb/Purple60/v4/c5/ee/17/c5ee1744-37da-c5b0-1d2f-e9bb32fcd7ad/source/512x512bb.jpg",
@@ -698,11 +704,164 @@
         "category": "ulusal"
     },
     {
-        "name": "BEİN SPORTS 1 FEED[MAÇ SAATİ]",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/0/02/TV4_logo.png",
-        "url": "https://vavoo.to/play/1536730627/index.m3u8",
+        "name": "KRAL POP TV",
+        "img": "https://1.bp.blogspot.com/-OwtX-qKt8Y8/VpF2tDHe7oI/AAAAAAAANZU/X8BO2AKzP34/s1600/kralpoptv.jpg",
+        "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
+        "category": "müzik"
+    },
+    {
+        "name": "POWER TV",
+        "img": "http://2.bp.blogspot.com/-mn6Bh85QMU8/Xk15B8rbBkI/AAAAAAAAYEo/LNtL7oMBSdUktS1SOGSLS0QicKZgxGeagCLcBGAsYHQ/s1600/power.jpg",
+        "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8",
+        "category": "müzik"
+    },
+    {
+        "name": "POWER TÜRK TV",
+        "img": "http://2.bp.blogspot.com/-TfR0buPRv8E/Xk15IVF3BAI/AAAAAAAAYEs/3a917DuF23kDxvp8B4948f6Hllbelp97QCLcBGAsYHQ/s1600/powerturk.jpg",
+        "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8",
+        "category": "müzik"
+    },
+    {
+        "name": "POWERTÜRK AKUSTİK",
+        "img": "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuHacnIlTTGTHqsMkUE2Qm65JKxbd39K3U_zqE3141NWJIEgKGC9IlEabO0wNLj9S3soNKMmM8s4Yq9kmu79d5M9lScbgEa-zHzzq2cXlcyXN6BT-BwOaP8tELAn-8_T0XCWfStV2aBJFNJbmN9mBLBzXCceyqM9xgRWsGbg0hsr_qyhKE6HgrDDsRNg/s1600/pt",
+        "url": "https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8",
+        "category": "müzik"
+    },
+    {
+        "name": "POWERTÜRK SLOW",
+        "img": "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJZT3K5shS_3MGOEzDo02s_tq7-XEUxS8PgCLHVEUSQ-9N4B9XNP3USEny7Kfjx3LErfstFIive7xC0whh50VF4cnh4E74FVDmxLhuVtUoL_wG6MBcG2vXmRV4qwynjtZovRIlmfuf62k-D-f70dKAG7L52Odbw5xyq4ftv1dJC41-5_Xv5i0gCr_85w/s1600/pt",
+        "url": "https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
+        "category": "müzik"
+    },
+    {
+        "name": "POWERTÜRK TAPTAZE",
+        "img": "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie7QdP03xbV_JAtY8WV4jJU4SbcVI8xTRevpKtuuPBzdeL6C30oos12dyy8RSF2ZHX7XX__TaYBT69Jj4CrK83Xhe3xm977LIft8zClTwqxsJ3rTwu61KNKhI8juH5lsihBFyiNehN00VdT41Vzq54hIqLpjQ9gI9pSfiTk6kc1DTlhbkBrUsrvJp1fw/s1600/pt",
+        "url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
+        "category": "müzik"
+    },
+    {
+        "name": "DREAM TÜRK TV",
+        "img": "http://3.bp.blogspot.com/-naVuMYoLMTI/Xk13J6ZQj6I/AAAAAAAAYDQ/OcOieuD7xSkcwxFBIwWMuHHI5dx1-GFZQCLcBGAsYHQ/s1600/dreamturk.jpg",
+        "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
+        "category": "müzik"
+    },
+    {
+        "name": "FİNEST TV",
+        "img": "http://3.bp.blogspot.com/-qlO8gZZSe6s/WYWU6_5yJeI/AAAAAAAATmg/2fN-shn7Rv4GhTTsnF1xpN5oLBdg0HOagCLcBGAs/s1600/f.jpg",
+        "url": "https://media.finest.tv/hls/live.m3u8",
+        "category": "müzik"
+    },
+    {
+        "name": "NUMBER 1 TÜRK TV",
+        "img": "http://1.bp.blogspot.com/-OvCV-qKr2fc/Xk140I96rqI/AAAAAAAAYEc/Vbvxg8SOvZQnSCsdrF1fCki03HoXmeSeQCLcBGAsYHQ/s1600/nrturk.jpg",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8?md5=T5XRaMShyuirhEdm4U70yQ&expires=1745141016",
+        "category": "müzik"
+    },
+    {
+        "name": "BEİN SERİES 1",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png",
+        "url": "https://vavoo.to/play/1125523262/index.m3u8",
         "useragent": "VAVOO/1.0",
         "referer": "https://vavoo.to/",
-        "category": "spor"
+        "category": "sinema"
+    },
+    {
+        "name": "BEİN SERİES 2",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png",
+        "url": "https://vavoo.to/play/3308693738/index.m3u8",
+        "useragent": "VAVOO/1.0",
+        "referer": "https://vavoo.to/",
+        "category": "sinema"
+    },
+    {
+        "name": "BEİN SERİES 3",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png",
+        "url": "https://vavoo.to/play/4166418778/index.m3u8",
+        "useragent": "VAVOO/1.0",
+        "referer": "https://vavoo.to/",
+        "category": "sinema"
+    },
+
+    {
+        "name": "BEİN SERİES 4",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png",
+        "url": "https://vavoo.to/play/1249271114/index.m3u8",
+        "useragent": "VAVOO/1.0",
+        "referer": "https://vavoo.to/",
+        "category": "sinema"
+    },
+    {
+        "name": "BEİN MOVİES AKSİYON",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bein_movies.png",
+        "url": "https://vavoo.to/play/1873478131/index.m3u8",
+        "useragent": "VAVOO/1.0",
+        "referer": "https://vavoo.to/",
+        "category": "sinema"
+    },
+    {
+        "name": "BEİN BOX OFFİCE 3",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png",
+        "url": "https://vavoo.to/play/2485199152/index.m3u8",
+        "useragent": "VAVOO/1.0",
+        "referer": "https://vavoo.to/",
+        "category": "sinema"
+    },
+    {
+        "name": "BEİN MOVİES PREMİERE",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bein_movies.png",
+        "url": "https://vavoo.to/play/942987224/index.m3u8",
+        "useragent": "VAVOO/1.0",
+        "referer": "https://vavoo.to/",
+        "category": "sinema"
+    },
+    {
+        "name": "BEİN MOVİES STAR",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bein_movies.png",
+        "url": "https://vavoo.to/play/2500913164/index.m3u8",
+        "useragent": "VAVOO/1.0",
+        "referer": "https://vavoo.to/",
+        "category": "sinema"
+    },
+
+    {
+        "name": "BEİN MOVİES TÜRK",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bein_movies.png",
+        "url": "https://vavoo.to/play/1835579025/index.m3u8",
+        "useragent": "VAVOO/1.0",
+        "referer": "https://vavoo.to/",
+        "category": "sinema"
+    },
+    {
+        "name": "BEİN BOX OFFİCE 2",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png",
+        "url": "https://vavoo.to/play/3910129702/index.m3u8",
+        "useragent": "VAVOO/1.0",
+        "referer": "https://vavoo.to/",
+        "category": "sinema"
+    },
+    {
+        "name": "BEİN SPORTS 3",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bein_movies.png",
+        "url": "https://vavoo.to/play/3410167560/index.m3u8",
+        "useragent": "VAVOO/1.0",
+        "referer": "https://vavoo.to/",
+        "category": "sinema"
+    },
+
+    {
+        "name": "BEİN SPORTS 1",
+        "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png",
+        "url": "https://vavoo.to/play/2403425031/index.m3u8",
+        "useragent": "VAVOO/1.0",
+        "referer": "https://vavoo.to/",
+        "category": "sinema"
+    },
+    {
+        "name": "BEİN SPORTS 4",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",
+        "url": "https://vavoo.to/play/2938268353/index.m3u8",
+        "useragent": "VAVOO/1.0",
+        "referer": "https://vavoo.to/",
+        "category": "sinema"
     }
 ]
