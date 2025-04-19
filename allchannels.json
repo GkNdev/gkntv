@@ -114,12 +114,6 @@
         "category": "ulusal"
     },
     {
-        "name": "ONS TV",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/1/15/ONS-logo.png",
-        "url": "https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8",
-        "category": "ulusal"
-    },
-    {
         "name": "Sağlık Tv",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBZ6oc3YWj89IGGkIuQ0gMjM99zk-9weHSwg&s",
         "url": "https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8",
@@ -676,12 +670,6 @@
         "name": "TRT AVAZ",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/2560px-TRT_Avaz_logo.svg.png",
         "url": "https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8",
-        "category": "ulusal"
-    },
-    {
-        "name": "TV 4",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/0/02/TV4_logo.png",
-        "url": "https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8",
         "category": "ulusal"
     },
     {
