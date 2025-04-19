@@ -25,7 +25,7 @@
     },
     {
         "name": "STAR TV",
-        "img": "https://seeklogo.com/images/S/star-tv-logo-F9543018FF-seeklogo.com.png",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png",
         "url": "https://dogus.daioncdn.net/startv/startv_1080p.m3u8",
         "category": "ulusal"
     },
@@ -651,14 +651,7 @@
         "name": "A PARA",
         "img": "https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA",
         "url": "yt=bLk5UbXn1OI",
-        "category": "724"
-    },
-
-    {
-        "name": "A PARA",
-        "img": "https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA",
-        "url": "yt=bLk5UbXn1OI",
-        "category": "724"
+        "category": "ulusal"
     },
     {
         "name": "BEYAZ TV",
