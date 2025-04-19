@@ -108,14 +108,8 @@
         "category": "ulusal"
     },
     {
-        "name": "Ton Tv",
-        "img": "https://static.daktilo.com/sites/1705/uploads/2025/02/09/desktop.png",
-        "url": "http://stream.tvcdn.net/yerel/ton-tv-canakkale.m3u8",
-        "category": "ulusal"
-    },
-    {
         "name": "Fortuna Tv",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyhAyTeHZ6Rc1wZ7CfAb2tztOPJoj2zVoxg&s",
+        "img": "https://www.ekoltv.com.tr/d/assets/facebook-default-share.png",
         "url": "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8",
         "category": "ulusal"
     },
@@ -158,13 +152,13 @@
     {
         "name": "TV 100",
         "img": "https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png",
-        "url": "http://stream.tvcdn.net/ulusal/tv-100.m3u8",
+        "url": "yt=6g_DvD8e2T0",
         "category": "haber"
     },
     {
         "name": "A HABER",
         "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",
-        "url": "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=MF9nTSgaRG_wrDZRlprfmA&e=1743447639",
+        "url": "yt=nmY9i63t6qo",
         "category": "haber"
     },
     {
@@ -198,6 +192,12 @@
         "category": "haber"
     },
     {
+        "name": "CNN TÜRK YEDEK",
+        "img": "https://temizerhukuk.com/wp-content/uploads/1200px-CNN_Turk_201x_logo.svg_-768x618.png",
+        "url": "yt=VXMR3YQ7W3s",
+        "category": "haber"
+    },
+    {
         "name": "NTV",
         "img": "https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264",
         "url": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
@@ -224,7 +224,7 @@
     {
         "name": "KRT TV",
         "img": "https://upload.wikimedia.org/wikipedia/commons/c/c4/KRT_Logo_2023.webp",
-        "url": "https://trn03.tulix.tv/gt-krttv/playlist.m3u8",
+        "url": "yt=v5srSbD2WBk",
         "category": "haber"
     },
     {
@@ -234,15 +234,9 @@
         "category": "haber"
     },
     {
-        "name": "24 TV",
-        "img": "https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png",
-        "url": "http://stream.tvcdn.net/haber/24-tv.m3u8",
-        "category": "haber"
-    },
-    {
         "name": "Bloomberg HT",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bloomberg_HT_logo.svg/2560px-Bloomberg_HT_logo.svg.png",
-        "url": "http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8",
+        "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8",
         "category": "haber"
     },
     {
@@ -297,29 +291,19 @@
         "name": "DISCOVERY CHANNEL",
         "img": "https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png",
         "url": "https://tv.arectv29.sbs/live/discovery.m3u8",
-        "category": "belgesel",
-        "useragent": "okhttp/4.12.0"
+        "category": "belgesel"
     },
     {
         "name": "DISCOVERY SCIENCE",
         "img": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png",
-        "url": "https://tv.arectv29.sbs/live/discs.m3u8",
-        "category": "belgesel",
-        "useragent": "okhttp/4.12.0"
-    },
-    {
-        "name": "LOVE NATURE",
-        "img": "https://upload.wikimedia.org/wikipedia/tr/1/1d/Love_Nature_TV.png",
-        "url": "https://tv.arectv29.sbs/live/lovenature.m3u8",
-        "category": "belgesel",
-        "useragent": "okhttp/4.12.0"
+        "url": "https://tv.arectv29.sbs/live/discscience.m3u8",
+        "category": "belgesel"
     },
     {
         "name": "VIASAT HISTORY",
         "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Viasat_History-logo.svg",
         "url": "https://tv.arectv29.sbs/live/viasathistory.m3u8",
-        "category": "belgesel",
-        "useragent": "okhttp/4.12.0"
+        "category": "belgesel"
     },
     {
         "name": "A SPOR",
@@ -610,12 +594,6 @@
         "category": "724"
     },
     {
-        "name": "EMRET KOMUTANIM",
-        "img": "https://emretkomutanim.com/wp-content/uploads/2022/03/Kisa-Bilgi-Emret-Komutanimm-445.jpg",
-        "url": "yt=toD9B3krEgo",
-        "category": "724"
-    },
-    {
         "name": "GELİN",
         "img": "https://i.ytimg.com/vi/kKGVOM2EV1M/hq720.jpg",
         "url": "yt=kKGVOM2EV1M",
@@ -652,12 +630,6 @@
         "category": "724"
     },
     {
-        "name": "MÜGE ANLI İLE TATLI SERT ARŞİV",
-        "img": "https://iaatv.tmgrup.com.tr/4db03f/500/268/0/0/500/268?u=https://iatv.tmgrup.com.tr/2024/06/28/500x268/1719578421495.jpg",
-        "url": "yt=pfBAzARGqLM",
-        "category": "724"
-    },
-    {
         "name": "ÇOK GÜZEL HAREKETLER 2",
         "img": "https://upload.wikimedia.org/wikipedia/tr/2/26/%C3%87ok_G%C3%BCzel_Hareketler2Afi%C5%9F.jpg",
         "url": "yt=iSs2JX68DZw",
@@ -674,5 +646,30 @@
         "img": "https://i.ytimg.com/vi/F0yeYa-SSDc/maxresdefault.jpg",
         "url": "yt=F0yeYa-SSDc",
         "category": "724"
+    },
+    {
+        "name": "A PARA",
+        "img": "https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA",
+        "url": "yt=bLk5UbXn1OI",
+        "category": "724"
+    },
+
+    {
+        "name": "A PARA",
+        "img": "https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA",
+        "url": "yt=bLk5UbXn1OI",
+        "category": "724"
+    },
+    {
+        "name": "BEYAZ TV",
+        "img": "https://static.wikia.nocookie.net/logopedia/images/9/9e/Beyaz-tv-tr.png/revision/latest?cb=20220108221208",
+        "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8",
+        "category": "ulusal"
+    },
+    {
+        "name": "BBC EARTH",
+        "img": "https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",
+        "url": "https://tv.arectv29.sbs/live/bbc.m3u8",
+        "category": "belgesel"
     }
 ]
